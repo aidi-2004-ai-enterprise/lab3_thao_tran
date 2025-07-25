@@ -1,0 +1,9 @@
+README.md
+pyproject.toml
+app/main.py
+penguins_classification.egg-info/PKG-INFO
+penguins_classification.egg-info/SOURCES.txt
+penguins_classification.egg-info/dependency_links.txt
+penguins_classification.egg-info/entry_points.txt
+penguins_classification.egg-info/requires.txt
+penguins_classification.egg-info/top_level.txt

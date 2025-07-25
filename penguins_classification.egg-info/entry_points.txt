@@ -1,0 +1,3 @@
+[console_scripts]
+penguins-api = app.main:app
+penguins-train = train:main
