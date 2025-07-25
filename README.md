@@ -142,6 +142,3 @@ The API includes comprehensive error handling for:
 - uvicorn
 - pydantic
 
-## License
-
-This project is licensed under the MIT License.
